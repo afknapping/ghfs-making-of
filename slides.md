@@ -1,3 +1,28 @@
+# H1 HEADLINE Headline
+
+
+
+## H2 HEADLINE Headline
+
+
+
+### H3 HEADLINE Headline
+
+
+
+#### H4 HEADLINE Headline
+
+
+
+Normal text
+
+
+
+<section class="full" data-background="/images/kitten.jpeg">
+full screen image
+
+
+
 <section class="full" data-background="/images/kitten.jpeg">
 
 <h1>Github From Scratch</h1>
